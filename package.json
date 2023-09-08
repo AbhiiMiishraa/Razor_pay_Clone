@@ -1,0 +1,19 @@
+{
+  "name": "cloneof-razorpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.4.2"
+  },
+  "dependencies": {
+    "feather": "^0.0.5",
+    "feature": "^1.1.0"
+  }
+}
